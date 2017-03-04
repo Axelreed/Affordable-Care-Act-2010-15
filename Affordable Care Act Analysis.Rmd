@@ -6,6 +6,7 @@ output: html_document
 ---
 
 ```{r}
+# Loading required packages
 library(ggplot2)
 library(maps)
 library(zipcode)
